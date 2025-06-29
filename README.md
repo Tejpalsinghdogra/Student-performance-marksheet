@@ -60,3 +60,4 @@ Student Performance Marksheet
 
 Author
 This project was created as part of learning C++ file handling, arrays, and loops.
+Tejpal Singh Dogra B.Tech CSE, GNA University
