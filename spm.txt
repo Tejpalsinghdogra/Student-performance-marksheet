@@ -1,0 +1,8 @@
+Name           Class     RollNo    Physics   Chemistry Maths     Biology   
+---------------------------------------------------------------------------
+Tejpal         11        1         11        11        11        11        
+Navneet        11        2         22        22        22        22        
+Navdeep        11        3         33        33        33        33        
+Banga          11        4         44        44        44        44        
+Atamjot        11        5         55        55        55        55        
+Harsh          11        6         66        66        66        66        
